@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of mbl/news-section.** Not for installation: use [Packagist](https://packagist.org/packages/mbl/news-section) or the [upstream repository](https://github.com/MikeLundahl/news-section).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/mbl-news-section/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.8.0`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/mbl-news-section/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-09-30 | `^1.8.0` | [Browse](https://github.com/flarchive/mbl-news-section/tree/archive/v0.1.0) |
+| `v0.1.1` | 2023-09-30 | `^1.8.0` | [Browse](https://github.com/flarchive/mbl-news-section/tree/archive/v0.1.1) |
+| `v0.1.2` | 2023-11-11 | `^1.8.0` | [Browse](https://github.com/flarchive/mbl-news-section/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/mbl-news-section.json](https://github.com/flarchive/archive-index/blob/main/packages/mbl-news-section.json)
 
